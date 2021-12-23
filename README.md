@@ -1,2 +1,1 @@
 # GOGIT
-go git
